@@ -1,0 +1,29 @@
+{
+  "name": "hill-sphere",
+  "version": "1.0.0",
+  "description": "Calculate the radius of the Hill Sphere",
+  "license": "MIT",
+  "keywords": [
+    "hill",
+    "roche",
+    "sphere",
+    "gravity",
+    "influence",
+    "astronomy"
+  ],
+  "main": "lib/hill-sphere",
+  "author": "Jonas Hermsmeier <jhermsmeier@gmail.com> (https://jhermsmeier.de/)",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test"
+  },
+  "homepage": "https://github.com/jhermsmeier/node-hill-sphere",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhermsmeier/node-hill-sphere.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhermsmeier/node-hill-sphere/issues"
+  }
+}
